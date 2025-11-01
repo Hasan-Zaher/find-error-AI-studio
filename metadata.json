@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Error Code Interpreter",
+  "description": "An intelligent web application that takes error codes or messages as input and leverages the Gemini API to provide developers with potential causes and solutions, helping to streamline the debugging process.",
+  "requestFramePermissions": []
+}
